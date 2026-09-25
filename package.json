@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tx-procurement",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Texas State Procurement MCP — State cooperative-contract awards & vendor sales (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-007790d1fb94f28b1c9b187d98862075c5d70992263ec487c1236bebc93a2e8e",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }

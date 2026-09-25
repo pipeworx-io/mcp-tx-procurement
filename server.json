@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/tx-procurement",
   "title": "Tx Procurement",
   "description": "Texas State Procurement MCP — State cooperative-contract awards & vendor sales (keyless).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/tx-procurement",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-tx-procurement",
